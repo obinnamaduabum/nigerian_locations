@@ -73933,833 +73933,231 @@
             "LGA": "Anka",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Bagega"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Barayar-Zaki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan Galadima"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Matseri"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Sabon Birini"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Waramu"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Wuya"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Anka",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yar'sabaya"
+            "villages": [
+                "Bagega",
+                "Barayar-Zaki",
+                "Dan Galadima",
+                "Matseri",
+                "Sabon Birini",
+                "Waramu",
+                "Wuya",
+                "Yar'sabaya"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Bakura",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Bakura"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Damri"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dankadu"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan Manau"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yar Kufoji"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dakko"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Rini"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bakura",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yar Geda"
+            "villages": [
+                "Bakura",
+                "Damri",
+                "Dankadu",
+                "Dan Manau",
+                "Yar Kufoji",
+                "Dakko",
+                "Rini",
+                "Yar Geda"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Birnin Magaji",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Birnin Magaji"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Danfami Sabon Birini"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gusami Gari"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gusami Hayi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Modomawa East"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Modomawa West"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Nasarawa Godal East"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Birnin Magaji",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Nasarawa Godal West"
+            "villages": [
+                "Birnin Magaji",
+                "Danfami Sabon Birini",
+                "Gusami Gari",
+                "Gusami Hayi",
+                "Modomawa East",
+                "Modomawa West",
+                "Nasarawa Godal East",
+                "Nasarawa Godal West"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Bukkuyum",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Adabka"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Bukkuyum"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gwashi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kyaram"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Masama"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Ruwan Jema"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yashi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Zarummai"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bukkuyum",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Zauma"
+            "villages": [
+                "Adabka",
+                "Bukkuyum",
+                "Gwashi",
+                "Kyaram",
+                "Masama",
+                "Ruwan Jema",
+                "Yashi",
+                "Zarummai",
+                "Zauma"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Bungudu",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Bingi North"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Bingi South"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Bungudu"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Furfuri/Kwai-Kwai"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gada / Karakkai"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Nahuce"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kwatarkwashi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Rawayya/ Bela"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Samawa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Bungudu",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Sankalawa"
+            "villages": [
+                "Bingi North",
+                "Bingi South",
+                "Bungudu",
+                "Furfuri/Kwai-Kwai",
+                "Gada / Karakkai",
+                "Nahuce",
+                "Kwatarkwashi",
+                "Rawayya/ Bela",
+                "Samawa",
+                "Sankalawa"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Gummi",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Bardoki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Falale"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Felfeldu / Gamo"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gayari"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gyalange"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Illelar Awal"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Magajin Gari"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gummi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shiyar Rafi"
+            "villages": [
+                "Bardoki",
+                "Falale",
+                "Felfeldu / Gamo",
+                "Gayari",
+                "Gyalange",
+                "Illelar Awal",
+                "Magajin Gari",
+                "Shiyar Rafi"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Gusau",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Madawaki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gusau",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Mayana"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gusau",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Rijiya"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gusau",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Ruwan Bore"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gusau",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Wanke"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Gusau",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Wonaka"
+            "villages": [
+                "Madawaki",
+                "Mayana",
+                "Rijiya",
+                "Ruwan Bore",
+                "Wanke",
+                "Wonaka"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Kaura Namoda",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Banga"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan - Isa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gabake"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Galadima Dan Galadima"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kungurki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kurya Madaro"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kyam Barawa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Sakajiki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "S/Baura/S/Mafara"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Kaura Namoda",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yankaba"
+            "villages": [
+                "Banga",
+                "Dan - Isa",
+                "Gabake",
+                "Galadima Dan Galadima",
+                "Kungurki",
+                "Kurya Madaro",
+                "Kyam Barawa",
+                "Sakajiki",
+                "S/Baura/S/Mafara",
+                "Yankaba"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Maradun",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Birnin Kaya / Dosara"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Damaga / Damagiwa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Faru / Magami"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Gidan Goga"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Janbako"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kaya"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Maradun North"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Maradun South"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maradun",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Tsibiri"
+            "villages": [
+                "Birnin Kaya / Dosara",
+                "Damaga / Damagiwa",
+                "Faru / Magami",
+                "Gidan Goga",
+                "Janbako",
+                "Kaya",
+                "Maradun North",
+                "Maradun South",
+                "Tsibiri"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Maru",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Bindin"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Bingi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan Gulbi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan Kurmi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dan Sadau"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kanoma"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kuyan Bana"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Maru"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Mayanchi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Maru",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Ruwan Dorawa"
+            "villages": [
+                "Bindin",
+                "Bingi",
+                "Dan Gulbi",
+                "Dan Kurmi",
+                "Dan Sadau",
+                "Kanoma",
+                "Kuyan Bana",
+                "Maru",
+                "Mayanchi",
+                "Ruwan Dorawa"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Shinkafi",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Birnin Yaro"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Shinkafi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Jangeru"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Shinkafi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Katuru"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Shinkafi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shinkafi North"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Shinkafi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shinkafi South"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Shinkafi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shanawa"
+            "villages": [
+                "Birnin Yaro",
+                "Jangeru",
+                "Katuru",
+                "Shinkafi North",
+                "Shinkafi South",
+                "Shanawa"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Talata Mafara",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Garbadu"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Jangebe"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Morai"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Ruwan Gizo"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Sauna R/ Gora"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shiyar Galadima"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Shiyar Kayaye/Matusgi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Talata Mafara",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Take Tsaba/Makera"
+            "villages": [
+                "Garbadu",
+                "Jangebe",
+                "Morai",
+                "Ruwan Gizo",
+                "Sauna R/ Gora",
+                "Shiyar Galadima",
+                "Shiyar Kayaye/Matusgi",
+                "Take Tsaba/Makera"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Tsafe",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Kwaren Ganuwa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yan Kuzo \\B\\'"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yandoton Daji"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yankuzo \\A\\'"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Danjibga/Kunchin - Kalgo"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Dauki"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Keta/Kizara"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Tsafe"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Chediya"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yan Waren Daji"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Tsafe",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Bilbis"
+            "villages": [
+                "Kwaren Ganuwa",
+                "Yan Kuzo B'",
+                "Yandoton Daji",
+                "Yankuzo A'",
+                "Danjibga/Kunchin - Kalgo",
+                "Dauki",
+                "Keta/Kizara",
+                "Tsafe",
+                "Chediya",
+                "Yan Waren Daji",
+                "Bilbis"
+            ]
         },
         {
             "state": "Zamfara",
             "LGA": "Zurmi",
             "District/Area": "N/A",
             "Postal code": "N/A",
-            "villages": "Dauran / Birnin-Tsaba"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Galadima/Yanruwa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kwashbawa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Mashem"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Kuturu/Mayasa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Rukudawa"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Yan Buki/ Dutsi"
-        },
-        {
-            "state": "Zamfara",
-            "LGA": "Zurmi",
-            "District/Area": "N/A",
-            "Postal code": "N/A",
-            "villages": "Zurmi"
+            "villages": [
+                "Dauran / Birnin-Tsaba",
+                "Galadima/Yanruwa",
+                "Kwashbawa",
+                "Mashem",
+                "Kuturu/Mayasa",
+                "Rukudawa",
+                "Yan Buki/ Dutsi",
+                "Zurmi"
+            ]
         }
     ]
 }

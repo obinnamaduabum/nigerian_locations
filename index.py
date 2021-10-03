@@ -1,6 +1,5 @@
 import lxml.html as lh
 from urllib.request import Request, urlopen
-import json
 import re
 import json
 
@@ -21,19 +20,18 @@ class WebScrapper:
     def append_to_json(self, new_data, filename):
     
         with open(filename,'r+') as file:
-            # First we load existing data into a dict.
+        
             file_data = json.load(file)
-            # Join new_data with file_data inside emp_details
+        
             file_data["data_arr"].append(new_data)
-            # Sets file's current position at offset.
+           
             file.seek(0)
-            # convert back to json.
+           
             json.dump(file_data, file, indent = 4)
 
     def makeApiCall(self, state_name):
 
         print('triggered api call ...')
-
 
         if state_name != 'FCT - Abuja':
             state_under_score = state_name.replace(' ', '_')
@@ -46,14 +44,11 @@ class WebScrapper:
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         html_bytes = urlopen(req).read()
         html = html_bytes.decode("utf-8")
-        # print(html)
 
         #Store the contents of the website under doc
         doc = lh.fromstring(html)
-        # print(doc)
         #Parse data that are stored between <tr>..</tr> of HTML
         tr_elements = doc.xpath('//tr')
-        # print(tr_elements)
         return tr_elements
     
     def getJson(self, tr_elements, state):
@@ -81,12 +76,13 @@ class WebScrapper:
                     if(len(inner_list) > 3):
 
                         if inner_list[1] != 'LGA':
+                            
                             dict = {
                                 'state': state,
                                 'LGA': inner_list[1],
-                                'District/Area': self.removeWord('(Rural)', inner_list[2]),
+                                'District/Area': "N/A",
                                 'Postal code': 'N/A',
-                                'villages': self.split_string_to_array(inner_list[3])
+                                'villages': self.removeWord('(Rural)', inner_list[2])
                             }
 
                             self.append_to_json(dict, "states-lga-and-areas.json")
